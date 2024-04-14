@@ -1,0 +1,51 @@
+
+.contact-section {
+    padding: 50px 0;
+    color: rgb(255, 255, 255);
+    background-image: url(../Contacts/Assets/Coffe\ mug.jpg);
+}
+.contact-form {
+    background: #403832be;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form-label{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+}
+h2{
+    font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal; 
+}
+.navbar {
+    background-color: #403832;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #aaa;
+}
+
+.navbar-brand{
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
